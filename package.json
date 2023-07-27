@@ -1,0 +1,23 @@
+{
+  "name": "async-practice",
+  "version": "1.0.0",
+  "description": "Async practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebelzob/async-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebelzob/async-practice/issues"
+  },
+  "homepage": "https://github.com/Rebelzob/async-practice#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
